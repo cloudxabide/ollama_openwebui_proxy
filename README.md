@@ -9,7 +9,7 @@ Status: This was just started - expect updates with more explanation and details
 
 # Why
 
-I have VPN access to my enviromemnt, but I was hoping to create a way that I can still utilize command-line/programmetic access to my resources, using the same method whether I am home or away (<<< this proved rather challenging).
+I have VPN access to my enviromemnt, but I was hoping to create a way that I can still utilize command-line/programmatic access to my resources, using the same method whether I am home or away (<<< this proved rather challenging).
 
 Requirements (loose):
 
