@@ -1,7 +1,9 @@
 # README
 
 # Purpose (What)
-Here is my documentation for an approach to adding a proxy to frontend AI resources hosted locally in a DMZ to be accessed from other internal networks or the Internet.
+Documentation for an approach to adding a proxy to frontend AI resources hosted locally in a DMZ to be accessed from other internal networks or the Internet.
+
+Status: This was just started - expect updates with more explanation and details.
 
 ![Cartoon](Images/high-level-cartoon-by_Gemini.png)
 
