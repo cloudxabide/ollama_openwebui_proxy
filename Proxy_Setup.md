@@ -1,5 +1,9 @@
 # Proxy Setup
 
+# Purpose (What)
+We cover the setup of the HAProxy node here and review some nuances related to the setup.
+
+![Network Overview](Images/proxy_host_with_vip.png)
 
 Requirements:
 
